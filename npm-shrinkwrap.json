@@ -563,8 +563,8 @@
     },
     "windows-process-tree": {
       "version": "0.1.1",
-      "from": "windows-process-tree@0.1.1",
-      "resolved": "https://registry.npmjs.org/windows-process-tree/-/windows-process-tree-0.1.1.tgz"
+      "from": "windows-process-tree@0.1.2",
+      "resolved": "https://registry.npmjs.org/windows-process-tree/-/windows-process-tree-0.1.2.tgz"
     },
     "winreg": {
       "version": "1.2.0",
